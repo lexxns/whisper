@@ -8,3 +8,4 @@ authors = ["Jordan Aspinall <jordan.aspinall@pm.me>"]
 
 [dependencies]
 hound = "3.4.0"
+rand = "0.8.4"
